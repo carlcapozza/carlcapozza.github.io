@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PGH Little Hacks</title>
-    <link>https://carlcapozza.github.io/</link>
-    <description>Recent content on PGH Little Hacks</description>
+    <title>Posts on PGH Little Hacks</title>
+    <link>https://carlcapozza.github.io/posts/</link>
+    <description>Recent content in Posts on PGH Little Hacks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 16 Sep 2017 15:10:24 -0400</lastBuildDate>
     
-	<atom:link href="https://carlcapozza.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://carlcapozza.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
